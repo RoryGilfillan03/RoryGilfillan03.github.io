@@ -7,4 +7,6 @@ This contains files for a website using Jeykll with 2 layouts - Default and Post
 
 The website contains 3 main pages, index, blog and about.
 
-The blog page contains multiple posts/
+The blog page contains multiple posts
+
+The site uses a external css file.
